@@ -1,7 +1,11 @@
 Sample git hub
 second line
 sunil
+<<<<<<< HEAD
 conflict -local
+=======
+conflict -remote
+>>>>>>> 32243905dc173c57d407af3a7c9bed031369cd09
 
 
 
