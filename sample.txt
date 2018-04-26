@@ -1,7 +1,7 @@
 Sample git hub
 second line
 sunil
-
+conflict -local
 
 
 
